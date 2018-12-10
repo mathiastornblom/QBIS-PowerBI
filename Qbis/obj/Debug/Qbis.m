@@ -35,7 +35,7 @@ Qbis.Icons = [
 QbisActualURL = "https://apps.qbis.se/WS/QBIS_DS.asmx";
 
 // https://bin.qbis.se/ws/qbis_mobileapp.asmx
-QbisMobileActualURL = "https://bin.qbis.se/ws/qbis_mobileapp.asmx";
+QbisMobileActualURL = "https://bin.qbis.se/WS/QBIS_MOBILEAPP";
 
 //
 // Implementation

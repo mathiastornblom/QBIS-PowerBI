@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Qbis-PowerBI", "Qbis\Qbis-PowerBI.mproj", "{43DDF4EC-761E-464C-9897-9EAE7AD05A37}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9E81078-E731-4A8D-858D-6D76D492DECB}"
+	ProjectSection(SolutionItems) = preProject
+		.version = .version
+		CONTRUBUTING.md = CONTRUBUTING.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
