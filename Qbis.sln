@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Qbis", "Qbis\Qbis.mproj", "{D0A6DC1E-EC49-4EE7-A76C-A18681FECA2C}"
+Project("{4DF76451-A46A-4C0B-BE03-459FAAFA07E6}") = "Qbis-PowerBI", "Qbis\Qbis-PowerBI.mproj", "{43DDF4EC-761E-464C-9897-9EAE7AD05A37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0A6DC1E-EC49-4EE7-A76C-A18681FECA2C}.Debug|x86.ActiveCfg = Debug|x86
-		{D0A6DC1E-EC49-4EE7-A76C-A18681FECA2C}.Debug|x86.Build.0 = Debug|x86
-		{D0A6DC1E-EC49-4EE7-A76C-A18681FECA2C}.Release|x86.ActiveCfg = Release|x86
-		{D0A6DC1E-EC49-4EE7-A76C-A18681FECA2C}.Release|x86.Build.0 = Release|x86
+		{43DDF4EC-761E-464C-9897-9EAE7AD05A37}.Debug|x86.ActiveCfg = Debug|x86
+		{43DDF4EC-761E-464C-9897-9EAE7AD05A37}.Debug|x86.Build.0 = Debug|x86
+		{43DDF4EC-761E-464C-9897-9EAE7AD05A37}.Release|x86.ActiveCfg = Release|x86
+		{43DDF4EC-761E-464C-9897-9EAE7AD05A37}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
