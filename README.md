@@ -1,6 +1,6 @@
 # QBis-PowerBI
 
-Visualise your Qbis data with Microsoft Power BI
+Visualise your Qbis data with this custom connector for Microsoft Power BI
 
 ## Getting Started
 
