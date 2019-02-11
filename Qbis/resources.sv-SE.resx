@@ -228,4 +228,94 @@
   <data name="GetWorkingTime" xml:space="preserve">
     <value>Arbetstid</value>
   </data>
+  <data name="GetCRMCategories" xml:space="preserve">
+    <value>CRM Kategorier</value>
+  </data>
+  <data name="GeTeams" xml:space="preserve">
+    <value>Grupper</value>
+  </data>
+  <data name="GeTeamsMembers" xml:space="preserve">
+    <value>Gruppmedlemmar</value>
+  </data>
+  <data name="GetPipelinePercentages" xml:space="preserve">
+    <value>Pipeline procent</value>
+  </data>
+  <data name="GetPipelineStages" xml:space="preserve">
+    <value>Pipeline steg</value>
+  </data>
+  <data name="GetPositionHistories" xml:space="preserve">
+    <value>Befattningshistorik</value>
+  </data>
+  <data name="GetPositions" xml:space="preserve">
+    <value>Befattning</value>
+  </data>
+  <data name="GetPriorityLevels" xml:space="preserve">
+    <value>Prioritetsnivåer</value>
+  </data>
+  <data name="GetProjectPhases" xml:space="preserve">
+    <value>Projektfaser</value>
+  </data>
+  <data name="GetSalaryActivities" xml:space="preserve">
+    <value>Löneaktiviteter</value>
+  </data>
+  <data name="GetSalaryTime" xml:space="preserve">
+    <value>Lön tid</value>
+  </data>
+  <data name="GetScheduleAgreementActivities" xml:space="preserve">
+    <value>Schema avtal aktiviteter</value>
+  </data>
+  <data name="GetScheduleAgreements" xml:space="preserve">
+    <value>Schema avtal</value>
+  </data>
+  <data name="GetScheduleAgreementSpecialDays" xml:space="preserve">
+    <value>Schema avtal speciela dagar</value>
+  </data>
+  <data name="GetScheduleBreaks" xml:space="preserve">
+    <value>Schema raster</value>
+  </data>
+  <data name="GetScheduleDays" xml:space="preserve">
+    <value>Schema dagar</value>
+  </data>
+  <data name="GetScheduleEmployees" xml:space="preserve">
+    <value>Schema anställda</value>
+  </data>
+  <data name="GetScheduleIntervals" xml:space="preserve">
+    <value>Schedule Intervals</value>
+  </data>
+  <data name="GetSchedules" xml:space="preserve">
+    <value>Schema</value>
+  </data>
+  <data name="GetScheduleSalaryActivities" xml:space="preserve">
+    <value>Schema löneaktiviteter</value>
+  </data>
+  <data name="GetScheduleSalaryActivityDays" xml:space="preserve">
+    <value>Schema löneaktivitet dagar</value>
+  </data>
+  <data name="GetScheduleSalaryActivityWeeks" xml:space="preserve">
+    <value>Schema löneaktivitet veckor</value>
+  </data>
+  <data name="GetScheduleTimes" xml:space="preserve">
+    <value>Schema tider</value>
+  </data>
+  <data name="GetScheduleVersions" xml:space="preserve">
+    <value>Schema versioner</value>
+  </data>
+  <data name="GetScheduleWeeks" xml:space="preserve">
+    <value>Schema veckor</value>
+  </data>
+  <data name="GetServiceDeskRequestCategories" xml:space="preserve">
+    <value>Service Desk ägentekategorier</value>
+  </data>
+  <data name="GetServiceDeskSchedue" xml:space="preserve">
+    <value>Service Desk schema</value>
+  </data>
+  <data name="GetServiceDeskSettings" xml:space="preserve">
+    <value>Service Desk inställningar</value>
+  </data>
+  <data name="GetStatusTypes" xml:space="preserve">
+    <value>Statustyper</value>
+  </data>
+  <data name="GetTeamsCategories" xml:space="preserve">
+    <value>Gruppkategorier</value>
+  </data>
 </root>

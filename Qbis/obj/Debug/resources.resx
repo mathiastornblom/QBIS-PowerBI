@@ -228,4 +228,94 @@
   <data name="GetWorkingTime" xml:space="preserve">
     <value>Working Time</value>
   </data>
+  <data name="GetCRMCategories" xml:space="preserve">
+    <value>CRM Categories</value>
+  </data>
+  <data name="GeTeams" xml:space="preserve">
+    <value>Teams</value>
+  </data>
+  <data name="GeTeamsMembers" xml:space="preserve">
+    <value>Teams Members</value>
+  </data>
+  <data name="GetPipelinePercentages" xml:space="preserve">
+    <value>Pipeline Percentages</value>
+  </data>
+  <data name="GetPipelineStages" xml:space="preserve">
+    <value>Pipeline Stages</value>
+  </data>
+  <data name="GetPositionHistories" xml:space="preserve">
+    <value>Position Histories</value>
+  </data>
+  <data name="GetPositions" xml:space="preserve">
+    <value>Positions</value>
+  </data>
+  <data name="GetPriorityLevels" xml:space="preserve">
+    <value>Priority Levels</value>
+  </data>
+  <data name="GetProjectPhases" xml:space="preserve">
+    <value>Project Phases</value>
+  </data>
+  <data name="GetSalaryActivities" xml:space="preserve">
+    <value>Salary Activities</value>
+  </data>
+  <data name="GetSalaryTime" xml:space="preserve">
+    <value>Salary Time</value>
+  </data>
+  <data name="GetScheduleAgreementActivities" xml:space="preserve">
+    <value>Schedule Agreement Activities</value>
+  </data>
+  <data name="GetScheduleAgreements" xml:space="preserve">
+    <value>Schedule Agreements</value>
+  </data>
+  <data name="GetScheduleAgreementSpecialDays" xml:space="preserve">
+    <value>Schedule Agreement Special Days</value>
+  </data>
+  <data name="GetScheduleBreaks" xml:space="preserve">
+    <value>Schedule Breaks</value>
+  </data>
+  <data name="GetScheduleDays" xml:space="preserve">
+    <value>Schedule Days</value>
+  </data>
+  <data name="GetScheduleEmployees" xml:space="preserve">
+    <value>Schedule Employees</value>
+  </data>
+  <data name="GetScheduleIntervals" xml:space="preserve">
+    <value>Schedule Intervals</value>
+  </data>
+  <data name="GetSchedules" xml:space="preserve">
+    <value>Schedules</value>
+  </data>
+  <data name="GetScheduleSalaryActivities" xml:space="preserve">
+    <value>Schedule Salary Activities</value>
+  </data>
+  <data name="GetScheduleSalaryActivityDays" xml:space="preserve">
+    <value>Schedule Salary Activity Days</value>
+  </data>
+  <data name="GetScheduleSalaryActivityWeeks" xml:space="preserve">
+    <value>Schedule Salary Activity Weeks</value>
+  </data>
+  <data name="GetScheduleTimes" xml:space="preserve">
+    <value>Schedule Times</value>
+  </data>
+  <data name="GetScheduleVersions" xml:space="preserve">
+    <value>Schedule Versions</value>
+  </data>
+  <data name="GetScheduleWeeks" xml:space="preserve">
+    <value>Schedule Weeks</value>
+  </data>
+  <data name="GetServiceDeskRequestCategories" xml:space="preserve">
+    <value>Service Desk Request Categories</value>
+  </data>
+  <data name="GetServiceDeskSchedue" xml:space="preserve">
+    <value>Service Desk Schedule</value>
+  </data>
+  <data name="GetServiceDeskSettings" xml:space="preserve">
+    <value>Service Desk Settings</value>
+  </data>
+  <data name="GetStatusTypes" xml:space="preserve">
+    <value>Status Types</value>
+  </data>
+  <data name="GetTeamsCategories" xml:space="preserve">
+    <value>Teams Categories</value>
+  </data>
 </root>
